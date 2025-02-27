@@ -1,0 +1,30 @@
+.img-user {
+  width: 100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.jumbotron {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.form-content {
+  width: 100%;
+  max-width: 400px;
+}
+
+.reg-icon {
+  color: #5bc0de;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn-info {
+  width: 100%;
+  font-size: 18px;
+}
